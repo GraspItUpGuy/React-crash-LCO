@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -30,4 +30,34 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+body{
+  background-color:  #86109B;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  color: aliceblue;
+
+}
+
+.app-title{
+ color: aliceblue;
+ text-align: center;
+ font-size: 35px;
+font-weight: bolder;
+}
+.input-text{
+  color: black;
+  background-color: white;
+}
+#inside-text{
+  background-color: #fff;
+  color: black;
+}
+.icon{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px ;
 }
